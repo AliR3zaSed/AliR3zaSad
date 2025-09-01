@@ -1,7 +1,7 @@
 <h1 align="center">سلام 👋، من علیرضا هستم</h1>
 <h3 align="center">یک توسعه‌دهنده‌ی فرانت‌اند پرشور از ایران</h3>
 
-<img align="right" alt="Alireza" width="480" src="68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966 (680×428) https://share.google/fBPV0I8nkiNBsaw03">
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alir3zasad&label=Profile%20views&color=0e75b6&style=flat" alt="alir3zasad" /> </p>
 
